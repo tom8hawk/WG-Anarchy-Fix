@@ -1,0 +1,1 @@
+Fix a bug in the [WG - Anarchy](https://www.spigotmc.org/resources/wg-anarchy.102776/) plugin that allowed players to blow up a Protect Block
